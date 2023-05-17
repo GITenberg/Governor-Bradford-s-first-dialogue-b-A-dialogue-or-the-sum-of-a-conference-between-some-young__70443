@@ -1,0 +1,34 @@
+_repo: Governor-Bradford-s-first-dialogue-b-A-dialogue-or-the-sum-of-a-conference-between-some-young__70443
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bradford, William
+    birthdate: 1590
+    deathdate: 1657
+    gutenberg_agent_id: '26830'
+    url: http://www.gutenberg.org/2009/agents/26830
+    wikipedia: https://en.wikipedia.org/wiki/William_Bradford_(governor)
+description: ''
+gutenberg_issued: '2023-04-02'
+identifiers:
+  gutenberg: '70443'
+language: en
+pgterms:marc905: 20220902050603bradford
+pgterms:marc906: '1894'
+pgterms:marc907: US
+production_note: Steve Mattern, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited States :$bOld South Leaflets, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Old South leaflets. Twelfth series, 1894. No. 2.
+subjects:
+- !lcsh 'Pilgrims (New Plymouth Colony) -- Early works to 1800'
+- !lcsh 'Separatists'
+- !lcc 'E186'
+- GITenberg
+title: 'Governor Bradford''s first dialogue : $b A dialogue, or the sum of a conference
+  between some young men born in New England and sundry ancient men that came out
+  of Holland and old England, anno Domini 1648.'
+url: http://www.gutenberg.org/ebooks/70443
